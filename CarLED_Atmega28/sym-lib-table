@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name LibraryLoader)(type Legacy)(uri ${KIPRJMOD}/Library/SamacSys_Parts.lib)(options "")(descr ""))
+  (lib (name Car-LEDs-rescue)(type Legacy)(uri "${KIPRJMOD}/Car LEDs-rescue.lib")(options "")(descr ""))
+)

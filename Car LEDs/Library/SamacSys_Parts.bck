@@ -1,0 +1,70 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ABL-16.000MHZ-B2
+D ABRACON - ABL-16.000MHZ-B2 - CRYSTAL
+F http://www.abracon.com/Resonators/ABL.pdf
+$ENDCMP
+#
+$CMP ABM8W-16.0000MHZ-8-B1U-T3
+D Crystals CRYSTAL 16.0000MHZ 8PF SMD
+F https://abracon.com/Resonators/ABM8W.pdf
+$ENDCMP
+#
+$CMP AP63356DV-7
+D Switching Voltage Regulators DCDC Conv HV Buck V-DFN3020-13 T&R 3K 3.8V TO 32V INPUT, 3.5A LOW IQ SYNCHRONOUS BUCK WITH ENHANCED EMI REDUCTION
+F https://www.diodes.com/assets/Datasheets/AP63356-AP63357.pdf
+$ENDCMP
+#
+$CMP AP7343DQ-33W5-7
+D LDO Voltage Regulators 300mA 3.3V High PSSR Automotive LDO
+F https://4donline.ihs.com/images/VipMasterIC/IC/DIOD/DIOD-S-A0008524282/DIOD-S-A0008524455-1.pdf?hkey=EF798316E3902B6ED9A73243A3159BB0
+$ENDCMP
+#
+$CMP BLUETOOTH-SERIAL-HC-06
+D Bluetooth / 802.15.1 Modules BLUETOOTH-SERIAL-HC-06
+F https://www.olimex.com/Products/Components/RF/BLUETOOTH-SERIAL-HC-06/resources/hc06.pdf
+$ENDCMP
+#
+$CMP CP2102N-A02-GQFN24R
+D USB Interface IC USB to UART bridge - QFN24
+F https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf
+$ENDCMP
+#
+$CMP CPC1125NTR
+D Solid State Relays - PCB Mount SP, Normally-Closed OptoMOS Relay
+F https://componentsearchengine.com/Datasheets/1/CPC1125NTR.pdf
+$ENDCMP
+#
+$CMP ECS-160-9-33B-CKM-TR
+D Crystals 16MHz 9pF 10ppm -20C +70C
+F https://www.ecsxtal.com/store/pdf/ECS-33B.pdf
+$ENDCMP
+#
+$CMP MCP4631-502E_ST
+D Digital Potentiometer ICs Dual 7B V I2C POT
+F https://componentsearchengine.com/Datasheets/1/MCP4631-502E_ST.pdf
+$ENDCMP
+#
+$CMP NE555DR
+D Single Precision Timer
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP PJ-037A
+D DC Power Connectors Power Jacks
+$ENDCMP
+#
+$CMP RCJ-2121
+D RCA Phono Connectors RCA jack, 2P, 1 x 2, horizontal, through hole, RD/BK
+F https://componentsearchengine.com/Datasheets/1/RCJ-2121.pdf
+$ENDCMP
+#
+$CMP SP0503BAHTG
+D ESD Suppressors / TVS Diodes TVS AVAL DIODE SMT
+$ENDCMP
+#
+$CMP UJ2-MIBH-G-SMT-TR
+D USB Connectors
+$ENDCMP
+#
+#End Doc Library
